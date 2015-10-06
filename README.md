@@ -2,12 +2,6 @@
 
 > ESLint config for my projects.
 
-## Get started
-
-```bash
-$ npm install --save-dev eslint@1.6.0 eslint-config-richardkall
-```
-
 ## Legacy (ES5 and below)
 
 Install packages as devDependencies:
