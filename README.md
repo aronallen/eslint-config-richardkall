@@ -14,7 +14,7 @@ Add a `.eslintrc` config to your project:
 
 ```json
 {
-  "extends": "eslint-config-richardkall/legacy"
+  "extends": "richardkall/legacy"
 }
 ```
 
