@@ -17,7 +17,6 @@ module.exports = {
     'react/jsx-no-duplicate-props': 2,
     'react/jsx-no-literals': 0,
     'react/jsx-no-undef': 2,
-    'react/jsx-quotes': [1, 'double', 'avoid-escape'],
     'react/jsx-sort-prop-types': 2,
     'react/jsx-sort-props': 2,
     'react/jsx-uses-react': 2,
