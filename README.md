@@ -18,6 +18,22 @@ Add a `.eslintrc` config to your project:
 }
 ```
 
+## ES6 & React
+
+Install packages as devDependencies:
+
+```bash
+npm install --save-dev babel-eslint eslint@1.6.0 eslint-plugin-react@3.5.1 eslint-config-richardkall
+```
+
+Add a `.eslintrc` config to your project:
+
+```json
+{
+  "extends": "richardkall/react"
+}
+```
+
 ## Legacy (ES5 and below)
 
 Install packages as devDependencies:
