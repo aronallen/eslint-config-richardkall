@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-richardkall",
+  "version": "0.1.0",
+  "description": "ESLint config for my projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:richardkall/eslint-config-richardkall.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Richard Käll <richard.kall@me.com>",
+  "license": "MIT"
+}
