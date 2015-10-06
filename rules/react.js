@@ -1,11 +1,11 @@
 module.exports = {
-  'ecmaFeatures': {
-    'jsx': true
-  },
   'parser': 'babel-eslint',
   'plugins': [
     'react'
   ],
+  'ecmaFeatures': {
+    'jsx': true
+  },
   'rules': {
     'react/display-name': 0,
     'react/forbid-prop-types': 0,

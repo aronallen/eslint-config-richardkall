@@ -10,8 +10,5 @@ module.exports = {
   ],
   'env': {
     'browser': true
-  },
-  'ecmaFeatures': {},
-  'globals': {},
-  'rules': {}
+  }
 };
