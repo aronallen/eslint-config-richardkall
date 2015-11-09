@@ -7,7 +7,7 @@
 Install packages as devDependencies:
 
 ```bash
-npm install --save-dev babel-eslint eslint@1.7.1 eslint-config-richardkall
+npm install --save-dev babel-eslint eslint@1.9.0 eslint-config-richardkall
 ```
 
 Add a `.eslintrc` config to your project:
@@ -23,7 +23,7 @@ Add a `.eslintrc` config to your project:
 Install packages as devDependencies:
 
 ```bash
-npm install --save-dev babel-eslint eslint@1.7.1 eslint-plugin-react@3.5.1 eslint-config-richardkall
+npm install --save-dev babel-eslint eslint@1.9.0 eslint-plugin-react@3.5.1 eslint-config-richardkall
 ```
 
 Add a `.eslintrc` config to your project:
@@ -39,7 +39,7 @@ Add a `.eslintrc` config to your project:
 Install packages as devDependencies:
 
 ```bash
-npm install --save-dev eslint@1.7.1 eslint-config-richardkall
+npm install --save-dev eslint@1.9.0 eslint-config-richardkall
 ```
 
 Add a `.eslintrc` config to your project:

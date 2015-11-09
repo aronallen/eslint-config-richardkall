@@ -29,10 +29,12 @@ module.exports = {
     'unicodeCodePointEscapes': false
   },
   'rules': {
+    'arrow-body-style': 2,
     'arrow-parens': 2,
     'arrow-spacing': 2,
     'constructor-super': 2,
     'generator-star-spacing': 2,
+    'no-arrow-condition': 2,
     'no-class-assign': 2,
     'no-const-assign': 2,
     'no-dupe-class-members': 2,
