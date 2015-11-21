@@ -9,7 +9,7 @@ module.exports = {
     'computed-property-spacing': 2,
     'consistent-this': 0,
     'eol-last': 2,
-    'func-names': 2,
+    'func-names': 0,
     'func-style': [2, 'declaration'],
     'id-length': 0,
     'id-match': 0,
