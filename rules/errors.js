@@ -9,8 +9,8 @@ module.exports = {
     'no-dupe-args': 2,
     'no-dupe-keys': 2,
     'no-duplicate-case': 2,
-    'no-empty-character-class': 2,
     'no-empty': 2,
+    'no-empty-character-class': 2,
     'no-ex-assign': 2,
     'no-extra-boolean-cast': 2,
     'no-extra-parens': [2, 'functions'],
@@ -23,10 +23,10 @@ module.exports = {
     'no-obj-calls': 2,
     'no-regex-spaces': 2,
     'no-sparse-arrays': 2,
+    'no-unexpected-multiline': 2,
     'no-unreachable': 2,
     'use-isnan': 2,
     'valid-jsdoc': 2,
     'valid-typeof': 2,
-    'no-unexpected-multiline': 2
   }
 };
