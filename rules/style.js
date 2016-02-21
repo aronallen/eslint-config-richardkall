@@ -11,7 +11,7 @@ module.exports = {
     'eol-last': 2,
     'func-names': 0,
     'func-style': [2, 'declaration'],
-    'id-blacklist': [2, 'data', 'err', 'e', 'cb', 'callback'],
+    'id-blacklist': 0,
     'id-length': 0,
     'id-match': 0,
     'indent': [2, 2],
