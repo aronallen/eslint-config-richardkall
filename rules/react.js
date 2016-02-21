@@ -27,7 +27,7 @@ module.exports = {
     'react/jsx-pascal-case': 2,
     'react/jsx-sort-prop-types': [2, {'callbacksLast': true}],
     'react/jsx-sort-props': [2, {'callbacksLast': true}],
-    // 'react/jsx-space-before-closing': [2, 'always'],
+    'react/jsx-space-before-closing': [2, 'always'],
     'react/jsx-uses-react': 2,
     'react/jsx-uses-vars': 2,
     'react/no-danger': 0,
