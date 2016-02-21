@@ -28,7 +28,7 @@ module.exports = {
     'new-cap': [2, {'newIsCap': true}],
     'new-parens': 2,
     'newline-after-var': 0,
-    'newline-per-chained-call': [2, {'ignoreChainWithDepth': 3}],
+    'newline-per-chained-call': 0,
     'no-array-constructor': 2,
     'no-bitwise': 2,
     'no-continue': 0,
