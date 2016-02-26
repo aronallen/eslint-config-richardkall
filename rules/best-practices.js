@@ -16,7 +16,7 @@ module.exports = {
     'no-case-declarations': 2,
     'no-div-regex': 2,
     'no-else-return': 2,
-    'no-empty-function': 2,
+    'no-empty-function': [2, {'allow': ['arrowFunctions']}],
     'no-empty-pattern': 2,
     'no-eq-null': 2,
     'no-eval': 2,
