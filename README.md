@@ -1,4 +1,4 @@
-# eslint-config-richardkall
+# eslint-config-richardkall [![devDependency Status](https://david-dm.org/richardkall/eslint-config-richardkall/dev-status.svg)](https://david-dm.org/richardkall/eslint-config-richardkall#info=devDependencies)
 
 > ESLint config for my projects.
 
