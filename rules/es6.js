@@ -11,7 +11,7 @@ module.exports = {
     'sourceType': 'module'
   },
   'rules': {
-    'arrow-body-style': 2,
+    'arrow-body-style': 0,
     'arrow-parens': 2,
     'arrow-spacing': 2,
     'constructor-super': 2,
