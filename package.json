@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-richardkall",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "ESLint config for my projects.",
   "main": "index.js",
   "repository": {
