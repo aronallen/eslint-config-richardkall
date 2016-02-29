@@ -15,7 +15,7 @@ module.exports = {
     'id-length': 0,
     'id-match': 0,
     'indent': [2, 2, {'SwitchCase': 1}],
-    'jsx-quotes': [2, 'prefer-double'],
+    'jsx-quotes': [2, 'prefer-single'],
     'key-spacing': 2,
     'keyword-spacing': 2,
     'linebreak-style': 0,
