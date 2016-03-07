@@ -1,5 +1,5 @@
-# eslint-config-richardkall [![devDependency Status](https://david-dm.org/richardkall/eslint-config-richardkall/dev-status.svg)](https://david-dm.org/richardkall/eslint-config-richardkall#info=devDependencies)
-
+# eslint-config-richardkall [![Dependency Status](https://gemnasium.com/richardkall/eslint-config-richardkall.svg)](https://gemnasium.com/richardkall/eslint-config-richardkall)
+ 
 > ESLint config for my projects.
 
 ## ES6
