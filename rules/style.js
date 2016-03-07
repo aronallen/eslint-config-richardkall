@@ -28,6 +28,7 @@ module.exports = {
     'new-cap': [2, {'newIsCap': true}],
     'new-parens': 2,
     'newline-after-var': 0,
+    'newline-before-return': 0,
     'newline-per-chained-call': 0,
     'no-array-constructor': 2,
     'no-bitwise': 2,
