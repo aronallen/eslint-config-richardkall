@@ -22,7 +22,7 @@ module.exports = {
     'lines-around-comment': 0,
     'max-depth': [2, 3],
     'max-len': 0,
-    'max-nested-callbacks': [2, 3],
+    'max-nested-callbacks': 0,
     'max-params': [2, 3],
     'max-statements': [2, 10],
     'new-cap': [2, {'newIsCap': true}],
