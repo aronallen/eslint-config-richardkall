@@ -1,4 +1,4 @@
-# eslint-config-richardkall [![Dependency Status](https://gemnasium.com/richardkall/eslint-config-richardkall.svg)](https://gemnasium.com/richardkall/eslint-config-richardkall)
+# eslint-config-richardkall
 
 > ESLint config for my projects.
 
