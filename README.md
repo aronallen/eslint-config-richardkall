@@ -1,5 +1,5 @@
 # eslint-config-richardkall [![Dependency Status](https://gemnasium.com/richardkall/eslint-config-richardkall.svg)](https://gemnasium.com/richardkall/eslint-config-richardkall)
- 
+
 > ESLint config for my projects.
 
 ## ES6
@@ -23,7 +23,7 @@ Add a `.eslintrc` config to your project:
 Install packages as devDependencies:
 
 ```bash
-npm install --save-dev babel-eslint eslint@2.3.0 eslint-plugin-react@4.2.0 eslint-config-richardkall
+npm install --save-dev babel-eslint eslint@2.3.0 eslint-plugin-react@4.2.3 eslint-config-richardkall
 ```
 
 Add a `.eslintrc` config to your project:
