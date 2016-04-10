@@ -25,6 +25,7 @@ module.exports = {
     'max-nested-callbacks': 0,
     'max-params': [2, 3],
     'max-statements': [2, 10],
+    'max-statements-per-line': 2,
     'new-cap': [2, {'newIsCap': true}],
     'new-parens': 2,
     'newline-after-var': 0,
