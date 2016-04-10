@@ -57,6 +57,7 @@ module.exports = {
     'no-unused-labels': 2,
     'no-useless-call': 2,
     'no-useless-concat': 2,
+    'no-useless-escape': 2,
     'no-void': 0,
     'no-warning-comments': [1, {
       'location': 'start',
