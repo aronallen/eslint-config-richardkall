@@ -60,7 +60,7 @@ module.exports = {
     'require-jsdoc': 0,
     semi: 2,
     'semi-spacing': 2,
-    'sort-imports': 2,
+    'sort-imports': 0,
     'sort-vars': 2,
     'space-before-blocks': 2,
     'space-before-function-paren': 2,
