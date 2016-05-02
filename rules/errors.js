@@ -1,5 +1,5 @@
 module.exports = {
-  'rules': {
+  rules: {
     'comma-dangle': 2,
     'no-cond-assign': [2, 'always'],
     'no-console': 1,

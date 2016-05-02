@@ -1,8 +1,8 @@
 module.exports = {
-  'env': {
-    'node': true
+  env: {
+    node: true
   },
-  'rules': {
+  rules: {
     'callback-return': 0,
     'global-require': 0,
     'handle-callback-err': 2,

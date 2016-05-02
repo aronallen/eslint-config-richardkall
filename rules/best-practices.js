@@ -1,22 +1,22 @@
 module.exports = {
-  'rules': {
-    'accessor-pairs': [2, {'getWithoutSet': true}],
+  rules: {
+    'accessor-pairs': [2, {getWithoutSet: true}],
     'array-callback-return': 2,
     'block-scoped-var': 2,
-    'complexity': 0,
+    complexity: 0,
     'consistent-return': 2,
-    'curly': [2, 'multi-line'],
+    curly: [2, 'multi-line'],
     'default-case': 2,
     'dot-location': [2, 'property'],
-    'dot-notation': [2, {'allowKeywords': true}],
-    'eqeqeq': 2,
+    'dot-notation': [2, {allowKeywords: true}],
+    eqeqeq: 2,
     'guard-for-in': 2,
     'no-alert': 1,
     'no-caller': 2,
     'no-case-declarations': 0,
     'no-div-regex': 2,
     'no-else-return': 2,
-    'no-empty-function': [2, {'allow': ['arrowFunctions']}],
+    'no-empty-function': [2, {allow: ['arrowFunctions']}],
     'no-empty-pattern': 2,
     'no-eq-null': 2,
     'no-eval': 2,
@@ -60,16 +60,16 @@ module.exports = {
     'no-useless-escape': 2,
     'no-void': 0,
     'no-warning-comments': [1, {
-      'location': 'start',
-      'terms': [
+      location: 'start',
+      terms: [
         'fixme',
         'todo'
       ]
     }],
     'no-with': 2,
-    'radix': 2,
+    radix: 2,
     'vars-on-top': 2,
     'wrap-iife': 2,
-    'yoda': 2
+    yoda: 2
   }
 };

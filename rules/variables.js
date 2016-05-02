@@ -1,5 +1,5 @@
 module.exports = {
-  'rules': {
+  rules: {
     'init-declarations': 0,
     'no-catch-shadow': 0,
     'no-delete-var': 2,
@@ -11,8 +11,8 @@ module.exports = {
     'no-undef-init': 2,
     'no-undefined': 2,
     'no-unused-vars': [2, {
-      'args': 'after-used',
-      'vars': 'local'
+      args: 'after-used',
+      vars: 'local'
     }],
     'no-use-before-define': 2
   }

@@ -1,16 +1,16 @@
 module.exports = {
-  'parser': 'babel-eslint',
-  'env': {
-    'es6': true
+  parser: 'babel-eslint',
+  env: {
+    es6: true
   },
-  'parserOptions': {
-    'ecmaVersion': 6,
-    'ecmaFeatures': {
-      'jsx': true
+  parserOptions: {
+    ecmaVersion: 6,
+    ecmaFeatures: {
+      jsx: true
     },
-    'sourceType': 'module'
+    sourceType: 'module'
   },
-  'rules': {
+  rules: {
     'arrow-body-style': 0,
     'arrow-parens': 2,
     'arrow-spacing': 2,

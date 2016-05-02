@@ -1,14 +1,14 @@
 module.exports = {
-  'parser': 'babel-eslint',
-  'plugins': [
+  parser: 'babel-eslint',
+  plugins: [
     'react'
   ],
-  'parserOptions': {
-    'ecmaFeatures': {
-      'jsx': true
+  parserOptions: {
+    ecmaFeatures: {
+      jsx: true
     }
   },
-  'rules': {
+  rules: {
     'react/display-name': 0,
     'react/forbid-prop-types': 0,
     'react/jsx-boolean-value': 2,
@@ -21,12 +21,12 @@ module.exports = {
     'react/jsx-indent-props': [2, 2],
     'react/jsx-key': 2,
     'react/jsx-max-props-per-line': 2,
-    'react/jsx-no-bind': [2, {'allowArrowFunctions': true}],
+    'react/jsx-no-bind': [2, {allowArrowFunctions: true}],
     'react/jsx-no-duplicate-props': 2,
     'react/jsx-no-literals': 0,
     'react/jsx-no-undef': 2,
     'react/jsx-pascal-case': 2,
-    'react/jsx-sort-props': [2, {'callbacksLast': true}],
+    'react/jsx-sort-props': [2, {callbacksLast: true}],
     'react/jsx-space-before-closing': [2, 'always'],
     'react/jsx-uses-react': 2,
     'react/jsx-uses-vars': 2,
@@ -48,7 +48,7 @@ module.exports = {
     'react/require-render-return': 2,
     'react/self-closing-comp': 2,
     'react/sort-comp': 2,
-    'react/sort-prop-types': [2, {'callbacksLast': true}],
+    'react/sort-prop-types': [2, {callbacksLast: true}],
     'react/wrap-multilines': 2
   }
 };

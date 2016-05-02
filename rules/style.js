@@ -1,20 +1,20 @@
 module.exports = {
-  'rules': {
+  rules: {
     'array-bracket-spacing': 2,
     'block-spacing': 2,
-    'brace-style': [2, '1tbs', {'allowSingleLine': true }],
-    'camelcase': [2, {'properties': 'never'}],
+    'brace-style': [2, '1tbs', {allowSingleLine: true }],
+    camelcase: [2, {properties: 'never'}],
     'comma-spacing': 2,
     'comma-style': 2,
     'computed-property-spacing': 2,
     'consistent-this': 0,
     'eol-last': 2,
     'func-names': 0,
-    'func-style': [2, 'declaration', {'allowArrowFunctions': true}],
+    'func-style': [2, 'declaration', {allowArrowFunctions: true}],
     'id-blacklist': 0,
     'id-length': 0,
     'id-match': 0,
-    'indent': [2, 2, {'SwitchCase': 1}],
+    indent: [2, 2, {SwitchCase: 1}],
     'jsx-quotes': [2, 'prefer-single'],
     'key-spacing': 2,
     'keyword-spacing': 2,
@@ -26,7 +26,7 @@ module.exports = {
     'max-params': [2, 3],
     'max-statements': [2, 10],
     'max-statements-per-line': 2,
-    'new-cap': [2, {'newIsCap': true}],
+    'new-cap': [2, {newIsCap: true}],
     'new-parens': 2,
     'newline-after-var': 0,
     'newline-before-return': 0,
@@ -37,7 +37,7 @@ module.exports = {
     'no-inline-comments': 0,
     'no-lonely-if': 2,
     'no-mixed-spaces-and-tabs': 2,
-    'no-multiple-empty-lines': [2, {'max': 1}],
+    'no-multiple-empty-lines': [2, {max: 1}],
     'no-negated-condition': 2,
     'no-nested-ternary': 2,
     'no-new-object': 2,
@@ -56,9 +56,9 @@ module.exports = {
     'operator-linebreak': 0,
     'padded-blocks': [2, 'never'],
     'quote-props': [2, 'as-needed'],
-    'quotes': [2, 'single', 'avoid-escape'],
+    quotes: [2, 'single', 'avoid-escape'],
     'require-jsdoc': 0,
-    'semi': 2,
+    semi: 2,
     'semi-spacing': 2,
     'sort-imports': 2,
     'sort-vars': 2,
@@ -68,8 +68,8 @@ module.exports = {
     'space-infix-ops': 2,
     'space-unary-ops': 2,
     'spaced-comment': [2, 'always', {
-      'exceptions': ['-', '+'],
-      'markers': ['=', '!']
+      exceptions: ['-', '+'],
+      markers: ['=', '!']
     }],
     'wrap-regex': 2
   }

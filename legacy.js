@@ -1,5 +1,5 @@
 module.exports = {
-  'extends': [
+  extends: [
     'eslint-config-richardkall/rules/best-practices',
     'eslint-config-richardkall/rules/errors',
     'eslint-config-richardkall/rules/node',
@@ -8,7 +8,7 @@ module.exports = {
     'eslint-config-richardkall/rules/variables',
     'eslint-config-richardkall/rules/legacy'
   ],
-  'env': {
-    'browser': true
+  env: {
+    browser: true
   }
 };

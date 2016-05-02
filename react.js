@@ -1,5 +1,5 @@
 module.exports = {
-  'extends': [
+  extends: [
     'eslint-config-richardkall',
     'eslint-config-richardkall/rules/react',
   ]
